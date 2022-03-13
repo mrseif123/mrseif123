@@ -51,4 +51,4 @@ I'm currently a student at Practicum by Yandex as a Full Stack Web Developer MER
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
-
+<h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
