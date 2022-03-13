@@ -52,11 +52,13 @@ I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer u
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
 <h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
-<ol>
+<ol align="center">
     <li>
         <h3><a href="https://mrseif123.github.io/Learning-How-to-Learn/">Learning How To Learn</a></h3>
     </li>
-    <li></li>
+    <li>
+        <h3><a href="https://mrseif123.github.io/From-Portland-to-Portland/">Learning How To Learn</a></h3>
+    </li>
     <li></li>
     <li></li>
     <li></li>
