@@ -9,8 +9,7 @@ I'm currently a student at Practicum by Yandex as a Full Stack Web Developer MER
 - 🥅  2022 Goals: learn something new everyday.
 - 🤔  Always looking to advance my career and for new challenges. 
 - 📫  How to reach me: [LinkedIn with me](https://www.linkedin.com/in/mrseif123/).
-- ⚡  Fun fact: !
-
+- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat" alt="mrseif123" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseif123&theme=onedark&row=1" alt="mrseif123" /></a> </p>
