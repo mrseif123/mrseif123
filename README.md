@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Seaf Aliyan and I'm a Computer Science & Statistics student.</h1>
+<h1 align="center">Hi 👋, I'm Seaf Aliyan and I'm a computer & data enthusiast.</h1>
 
-I am a Full Stack MERN Developer. I speak English, Arabic & Hebrew on daily basis.
+I am a currently a computer science & statistics student at Rachel & Selim Benin School of Computer Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science, learnining new things about machine learning, artificial intelligence, applied data science, convex optimization and more.
 
-I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
+Seeking more knowledge in other fields I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
 - 💙  I'm a 2nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
 - 🔭  I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp focusing on MERN stack.
 - 🥅  2022 Goals: learn something new everyday.
 - 🤔  Always looking to advance my career and for new challenges. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/mrseif123/).
-- 
+- 😁  General fact: I speak 3 languages on daily basis: English, Arabic and Hebrew.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat" alt="mrseif123" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseif123&theme=onedark&row=1" alt="mrseif123" /></a> </p>
