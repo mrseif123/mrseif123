@@ -13,6 +13,9 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat" alt="mrseif123" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseif123&theme=onedark&row=1" alt="mrseif123" /></a> </p> -->
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mrseif123&show_icons=true&theme=tokyonight&locale=en" alt="mrseif123" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,6 +23,8 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mrseif123" height="30" width="40" />
 </a>
 </p>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -47,9 +52,6 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
     
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrseif123" /></p> -->
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mrseif123&show_icons=true&theme=tokyonight&locale=en" alt="mrseif123" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
 <h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
 <ul align="center">
