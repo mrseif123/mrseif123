@@ -2,7 +2,7 @@
 
 I am a Full Stack MERN Developer. I speak English, Arabic & Hebrew on daily basis.
 
-I'm currently a student at Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
+I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
 - 💙  I'm a 2nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
 - 🔭  I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp focusing on MERN stack.
@@ -52,3 +52,12 @@ I'm currently a student at Practicum by Yandex as a Full Stack Web Developer MER
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
 <h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
+<ol>
+    <li>
+        <h3><a href="https://mrseif123.github.io/Learning-How-to-Learn/">Learning How To Learn</a>/h3>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+<ol>
