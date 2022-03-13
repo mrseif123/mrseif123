@@ -10,9 +10,9 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
 - 🤔  Always looking to advance my career and for new challenges. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/mrseif123/).
 - 😁  General fact: I speak 3 languages on daily basis: English, Arabic and Hebrew.
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat" alt="mrseif123" /> </p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseif123&theme=onedark&row=1" alt="mrseif123" /></a> </p> -->
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mrseif123&show_icons=true&theme=tokyonight&locale=en" alt="mrseif123" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
@@ -48,9 +48,6 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-
-    
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrseif123" /></p> -->
 
 
 <h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
