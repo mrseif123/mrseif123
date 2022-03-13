@@ -54,7 +54,7 @@ I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer u
 <h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
 <ol>
     <li>
-        <h3><a href="https://mrseif123.github.io/Learning-How-to-Learn/">Learning How To Learn</a>/h3>
+        <h3><a href="https://mrseif123.github.io/Learning-How-to-Learn/">Learning How To Learn</a></h3>
     </li>
     <li></li>
     <li></li>
