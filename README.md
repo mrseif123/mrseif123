@@ -8,7 +8,7 @@ I'm currently a student at Practicum by Yandex as a Full Stack Web Developer MER
 - 🔭  I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp focusing on MERN stack.
 - 🥅  2022 Goals: learn something new everyday.
 - 🤔  Always looking to advance my career and for new challenges. 
-- 📫  How to reach me: [LinkedIn with me](https://www.linkedin.com/in/mrseif123/).
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/mrseif123/).
 - 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat" alt="mrseif123" /> </p>
 
