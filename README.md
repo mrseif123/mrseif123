@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seaf Aliyan and I'm a computer & data enthusiast.</h1>
 
-I am a currently a computer science & statistics student at Rachel & Selim Benin School of Computer Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science, learnining new things about machine learning, artificial intelligence, applied data science, convex optimization and more.
+I am a currently a computer science & statistics (Data Science) student at Rachel & Selim Benin School of Computer Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science, learnining new things about machine learning, artificial intelligence, applied data science, convex optimization and more.
 
 Seeking more knowledge in other fields I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
