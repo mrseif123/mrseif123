@@ -21,8 +21,6 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Seaf's Languages/Frameworks" width = 400 />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseif123&langs_count=10)](https://github.com/mrseif123/github-readme-stats)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrseif123" target="blank">
