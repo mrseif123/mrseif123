@@ -18,7 +18,7 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight" alt="mrseif123" /></p>
 
 <div align="center">
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&count_private=false&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Seaf0's Languages/Frameworks" width = 400 />
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Seaf's Languages/Frameworks" width = 400 />
 </div>
 
 <h3 align="center">Connect with me:</h3>
