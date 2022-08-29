@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Seaf Aliyan and I'm a computer & data enthusiast.</h1>
+<h1 align="center">Hi!, I'm Seaf Aliyan, a computer & data enthusiast 👋💻</h1>
 
-I am a currently a computer science & statistics (Data Science) student at Rachel & Selim Benin School of Computer Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science, learnining new things about machine learning, artificial intelligence, applied data science, convex optimization and more.
+I am a currently a computer science & statistics (Data Science) student at Rachel & Selim Benin School of Computer Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science, learnining new things about machine learning, artificial intelligence, applied data science, algorithms, data structures and more.
 
-Seeking more knowledge in other fields I recently finished Practicum by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
+Seeking more knowledge in other fields I recently finished Practicum100 by Yandex Bootcamp as a Full Stack Web Developer using MERN stack. The curricullum provides a wide range of projects based on which includes a variety of Full-Stack development technologies such as: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API's, Google Cloud deployment and more.
+
+In addition, I'm recently focusing on Cross-Platform Mobile Development using React Native, playing around it's technologies while cloning essential functionalities of some famous mobile apps such as: Deliveroo, Uber, Tinder were I've used some of the most famous React/React-Native technologies, such as: RN-Navigation,  RN-Animations, Lottie files, Redux, Yarn, tailwindCSS, Google API's such ass: Places/Maps/Navigation and more. I also tried some course oriented apps such as MealsToGo, a mobile app for exploring restaurants around the world using: Google Places API for restaurants data, Sanity CMS to add new restaurants/meals/categories, React, React Hooks, Expo, React Navigation, Firebase, Styled-Components, React Animations,
 
 - 💙  I'm a 2nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
 - 🔭  I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp focusing on MERN stack.
+- 📱  I finished a React-Native course from [Zero-To-Master Academy](https://www.linkedin.com/school/ztm-academy/) online hands-on React-Native course.
 - 🥅  2022 Goals: learn something new everyday.
 - 🤔  Always looking to advance my career and for new challenges. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/mrseif123/).
@@ -54,15 +57,30 @@ Seeking more knowledge in other fields I recently finished Practicum by Yandex B
     <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 
 
-<h2 align="center">Some of my projects during the Practicum100 Bootcamp</h2> 
+<h2 align="center">Mobile-Development Projects<br> (React-Native/Google-APIs/Redux)</h2> 
 <ul align="center">
     <li>
-        <h3 align="center"><a href="https://mrseif123.github.io/Learning-How-to-Learn/">Learning How To Learn</a></h3>
+        <h3 align="center"><a href="https://github.com/mrseif123/Uber2.0">Uber2.0</a></h3>
+    </li>
+    <li>
+        <h3 align="center"><a href="https://github.com/mrseif123/Deliveroo2.0">Deliveroo2.0</a></h3>
+    </li>
+    <li>
+        <h3 align="center"><a href="https://github.com/mrseif123/MealsToGo">MealsToGo</a></h3>
+    </li>
+<ul>
+
+<br>
+<h2 align="center">Web-Development Projects<br> (React/Js/HTML/CSS)</h2> 
+<ul align="center">
+    <li>
+        <h3 align="center"><a href="https://mrseif12.students.nomoreparties.sbs/">News Explorer</a></h3>
+    </li>
+    <li>
+        <h3 align="center"><a href="https://github.com/mrseif123/robofriends">Robofriends</a></h3>
     </li>
     <li>
         <h3 align="center"><a href="https://mrseif123.github.io/From-Portland-to-Portland/">From Portland to Portland</a></h3>
     </li>
-    <li>
-        <h3 align="center"><a href="https://mrseif12.students.nomoreparties.sbs/">News Explorer</a></h3>
-    </li>
+
 <ul>
