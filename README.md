@@ -41,7 +41,7 @@ and other React-Native hands-on courses.
         alt="mrseif123" /></p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=jupyter%20notebook"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrseif123&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=jupyter%20notebook"
         alt="Seaf's Languages/Frameworks" width=400 />
 </div>
 
