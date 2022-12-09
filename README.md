@@ -53,7 +53,7 @@ and other React-Native hands-on courses.
     </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"> <img
             src="https://banner2.cleanpng.com/20190623/etv/kisspng-python-high-level-programming-language-computer-pr-photos-ottawa-python-authors-group-ottawa-on-5d0f0abf37c231.0386740715612668792284.jpg"
@@ -120,8 +120,8 @@ and other React-Native hands-on courses.
         target="_blank"> <img
             src="https://www.gstatic.com/devrel-devsite/prod/v6bd99c7d8fa6220aea6020b29137b212e2eacdba13242535487f52ab3557b0cb/firebase/images/touchicon-180.png"
             alt="firebase" width="40" height="40" /> </a>
-</p>
-<br><br>
+</p> -->
+<!-- <br><br>
 <h2 align="center">Mobile-Development Projects<br> (React-Native/Google-APIs/Redux)</h2>
 <ul align="center">
     <li>
@@ -149,3 +149,4 @@ and other React-Native hands-on courses.
     </li>
 </ul>
 
+ -->
