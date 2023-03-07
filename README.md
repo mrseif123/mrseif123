@@ -1,6 +1,6 @@
-<h1 align="center">Hi!, I'm Seaf Aliyan, a computer & data enthusiast 👋💻</h1>
+<h1 align="center">Hi!, I'm Seaf Aliyan, Computer & Data Enthusiast 👋💻</h1>
 
-I am a currently a computer science & statistics (Data Science) student at Rachel & Selim Benin School of Computer
+I am a currently a computer science student at Rachel & Selim Benin School of Computer
 Science and Engineering at the Hebrew University of Jerusalem, there I focus on theoritical parts of computer science,
 learnining new things about machine learning, artificial intelligence, applied data science, algorithms, data structures
 and more.
@@ -11,20 +11,19 @@ development technologies such as: HTML5, CSS3, flexbox, grid layout, BEM, Media 
 DOM, Debugging, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js,
 Express.js, Database, MongoDB, Mongoose, API's, Google Cloud deployment and more.
 
-In addition, I'm recently focusing on Cross-Platform Mobile Development using React Native, playing around it's
+In addition, I'm recently focusing on Cross-Platform Mobile Development using React Native & Flutter, playing around it's
 technologies while cloning essential functionalities of some famous mobile apps such as: Deliveroo, Uber, Tinder were
 I've used some of the most famous React/React-Native technologies, such as: RN-Navigation, RN-Animations, Lottie files,
-Redux, Yarn, tailwindCSS, Google API's such ass: Places/Maps/Navigation and more. I also tried some course oriented apps
+Redux, Yarn, tailwindCSS, Google API's such as: Places/Maps/Navigation and more. I also tried some course oriented apps
 such as MealsToGo, a mobile app for exploring restaurants around the world using: Google Places API for restaurants
 data, Sanity CMS to add new restaurants/meals/categories, React, React Hooks, Expo, React Navigation, Firebase,
-Styled-Components, React Animations,
+Styled-Components, React Animations.
 
-- 💙 I'm a 2nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
+- 💙 I'm a 3nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
 - 🔭 I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp
 focusing on MERN stack.
-- 📱 Currently learning Mobile-Development online from [Zero-To-Master Academy](https://www.linkedin.com/school/ztm-academy/) 
-and other React-Native hands-on courses.
-- 🥅 2022 Goals: Keep learning, keep innovating.
+- 📱 Currently learning Mobile-Development using Flutter by hands-on experience.
+- 🥅 2023 Goals: Keep learning, keep innovating.
 - 🤔 Always looking to advance my career and for new challenges.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrseif123/).
 - 😁 General fact: I speak 3 languages on daily basis: English, Arabic and Hebrew.
