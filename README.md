@@ -19,7 +19,7 @@ such as MealsToGo, a mobile app for exploring restaurants around the world using
 data, Sanity CMS to add new restaurants/meals/categories, React, React Hooks, Expo, React Navigation, Firebase,
 Styled-Components, React Animations.
 
-- 💙 I'm a 3nd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
+- 💙 I'm a 3rd year Computer Science & Statistics student @ The Hebrew University of Jerusalem.
 - 🔭 I graduated from [Practicum by Yandex](https://practicum.yandex.com/web/) online Full Stack Web Developer Bootcamp
 focusing on MERN stack.
 - 📱 Currently learning Mobile-Development using Flutter by hands-on experience.
