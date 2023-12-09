@@ -29,14 +29,14 @@ focusing on MERN stack.
 - 😁 General fact: I speak 3 languages on daily basis: English, Arabic and Hebrew.
 
 <p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=mrseif123&label=Profile%20views&color=0e75b6&style=flat&count_private=true"
         alt="mrseif123" /> </p>
 
 <p align="center">&nbsp;<img
-        src="https://github-readme-stats.vercel.app/api?username=mrseif123&show_icons=true&theme=tokyonight&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=mrseif123&show_icons=true&theme=tokyonight&locale=en&count_private=true"
         alt="mrseif123" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight"
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrseif123&&theme=tokyonight&count_private=true"
         alt="mrseif123" /></p>
 
 <div align="center">
